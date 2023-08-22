@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/BdT9xb2R)
 
 # Projektaufgabe Zoo RESTful API
 
@@ -28,7 +29,7 @@ Verwende die im Unterricht erstellte Zoodatenbank.
 
 - Stelle eine SSH Verbindung her und füge einen Screenshot des unten angebenden ausgeführten Befehls ein.
 - Verwende für die Screenshots den `img` Ordner.
-
+  ![Dependencies](./img/userRechte.jpg)
 ~~~sql
 SHOW GRANTS FOR 'username'@'localhost';
 ~~~
