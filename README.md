@@ -29,7 +29,7 @@ Verwende die im Unterricht erstellte Zoodatenbank.
 
 - Stelle eine SSH Verbindung her und füge einen Screenshot des unten angebenden ausgeführten Befehls ein.
 - Verwende für die Screenshots den `img` Ordner.
-
+  ![Dependencies](./img/userRechte.jpg)
 ~~~sql
 SHOW GRANTS FOR 'username'@'localhost';
 ~~~
